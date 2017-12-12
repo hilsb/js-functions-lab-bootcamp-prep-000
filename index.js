@@ -7,7 +7,7 @@ function happyHolidaysTo(name, holiday){
   var name = "Fred";
     return `Happy holidays, ${name}!`;
 }
-  if (holiday === "Christmas");
+  var holiday = "Christmas";
     return `Happy ${holiday}, ${name}!`;
   }
 
