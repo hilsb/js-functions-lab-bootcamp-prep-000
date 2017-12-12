@@ -3,10 +3,11 @@ function happyHolidays(){
   return 'Happy holidays!';
 }
 
-function happyHolidaysTo(you, Christmas){
+function happyHolidaysTo(name, holiday){
   if (name === "Fred");
     return `Happy holidays, ${name}!`;
 }
+  if (holiday === "Christmas");
     return `Happy ${holiday}, ${name}!`;
   }
 
