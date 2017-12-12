@@ -4,8 +4,10 @@ function happyHolidays(){
 }
 
 function happyHolidaysTo(holiday, name){
-  return `Happy holidays, ${name}!`;
+  var name = "Fred";
+    return `Happy holidays, ${name}!`;
 }
+  var holiday = "Independence Day";
     return `Happy ${holiday}, ${name}!`;
   }
 
